@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Madness UBR</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dack Fayden"/>
+        <card number="3" price="0" name="Gibbering Descent"/>
+        <card number="1" price="0" name="Shrieking Affliction"/>
+        <card number="4" price="0" name="Basking Rootwalla"/>
+        <card number="2" price="0" name="Big Game Hunter"/>
+        <card number="2" price="0" name="Brain Gorgers"/>
+        <card number="1" price="0" name="Brink of Madness"/>
+        <card number="4" price="0" name="Call to the Netherworld"/>
+        <card number="3" price="0" name="Dark Withering"/>
+        <card number="2" price="0" name="Descent into Madness"/>
+        <card number="2" price="0" name="Fiery Temper"/>
+        <card number="2" price="0" name="Gorgon Recluse"/>
+        <card number="2" price="0" name="Grave Scrabbler"/>
+        <card number="1" price="0" name="Ichor Slick"/>
+        <card number="1" price="0" name="Nightshade Assassin"/>
+        <card number="1" price="0" name="Psychotic Episode"/>
+        <card number="1" price="0" name="Psychotic Haze"/>
+        <card number="1" price="0" name="Reckless Wurm"/>
+        <card number="2" price="0" name="Strength of Lunacy"/>
+        <card number="2" price="0" name="Funeral Charm"/>
+        <card number="4" price="0" name="Mindless Automaton"/>
+        <card number="1" price="0" name="Academy Raider"/>
+        <card number="1" price="0" name="Amok"/>
+        <card number="4" price="0" name="Anvil of Bogardan"/>
+        <card number="2" price="0" name="Avatar of Discord"/>
+        <card number="4" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Bog Witch"/>
+        <card number="1" price="0" name="Bonded Fetch"/>
+        <card number="1" price="0" name="Breathstealer's Crypt"/>
+        <card number="1" price="0" name="Burning Inquiry"/>
+        <card number="1" price="0" name="Ceta Sanctuary"/>
+        <card number="2" price="0" name="Chains of Mephistopheles"/>
+        <card number="2" price="0" name="Chandra Ablaze"/>
+        <card number="1" price="0" name="Civilized Scholar"/>
+        <card number="3" price="0" name="Cunning Lethemancer"/>
+        <card number="2" price="0" name="Customs Depot"/>
+        <card number="1" price="0" name="Daretti, Scrap Savant"/>
+        <card number="2" price="0" name="Dire Undercurrents"/>
+        <card number="1" price="0" name="Enclave Cryptologist"/>
+        <card number="1" price="0" name="Faithless Looting"/>
+        <card number="2" price="0" name="Frantic Search"/>
+        <card number="2" price="0" name="Macabre Waltz"/>
+        <card number="1" price="0" name="One with Nothing"/>
+        <card number="4" price="0" name="Putrid Imp"/>
+        <card number="1" price="0" name="Restless Dreams"/>
+        <card number="2" price="0" name="Stronghold Rats"/>
+    </zone>
+</cockatrice_deck>

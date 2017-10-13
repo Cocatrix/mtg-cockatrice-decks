@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH - Maelstrom Wanderer - GUR</deckname>
+    <comments>502.85. Cascade
+
+502.85a La cascade est une capacité déclenchée qui fonctionne uniquement quand la carte avec la cascade est sur la pile. « Cascade » signifie « Quand vous jouez ce sort, retirez de la partie des cartes du dessus de votre bibliothèque jusqu'à ce que vous retiriez une carte non-terrain dont le coût converti de mana est inférieur à celui de ce sort. Vous pouvez jouer cette carte sans payer son coût de mana. Mettez ensuite toutes les cartes retirées de la partie de cette manière qui n'ont pas été jouées au-dessous de votre bibliothèque, dans un ordre aléatoire. »
+
+502.85b Si un sort a plusieurs occurrences de cascade, chacune d'elles se déclenche séparément.
+
+* Sur les cartes d'éphémère et de rituel, la capacité de cascade apparaît en premier ; sur les cartes de permanent, la capacité de cascade apparaît en dernier. Quel que soit le type de carte, la cascade se déclenche quand le sort est joué, pas quand il se résout (c'est-à-dire, avant que le permanent n'arrive en jeu).
+
+* Voici les règles de temps pour la cascade :
+1) Vous jouez un sort avec la cascade.
+2) La capacité de cascade se déclenche et va sur la pile au-dessus du sort d'origine.
+3) La capacité de cascade se résout. Si vous trouvez une carte applicable que vous voulez jouer, faites-le maintenant.
+4) Le sort que vous avez joué grâce à la capacité de cascade se résout.
+5) Le sort d'origine se résout.
+
+* Dans la plupart des cas, la cascade est obligatoire. Vous devez retirer de la partie des cartes de votre bibliothèque, même si vous savez que vous ne retirerez rien que vous voudrez jouer. Jouer ou non la dernière carte retirée est la seule partie de la capacité qui soit optionnelle.
+
+* Le sort que vous jouez grâce à la capacité de cascade se résout avant le sort d'origine. Si vous jouez un sort de créature avec la cascade et que vous jouez une aura grâce à la capacité de cascade, vous ne pouvez pas l'utiliser pour enchanter cette créature parce que le sort de créature ne s'est pas encore résolu.
+
+* La cascade ne se déclenche pas si vous mettez sur la pile la copie d'un sort avec la cascade (par exemple, à cause de l'Incantation fourchue ou de Jumelance). C'est parce que vous n'avez pas joué la copie.
+
+* Contrecarrer le sort d'origine ne contrecarre pas la capacité de cascade.
+
+* Comme la cascade est une capacité déclenchée, tout ce qui interagit avec une capacité déclenchée (comme l'Asphyxie) interagit avec la cascade.
+
+* Tous les joueurs peuvent voir les cartes que vous retirez de la partie au moment où la capacité de cascade se résout.
+
+* Si vous retirez une carte double de la partie de cette manière, vérifiez qu'au moins une moitié de cette carte double a un coût converti de mana inférieur au coût converti de mana du sort avec la cascade. Si c'est le cas, vous pouvez jouer la moitié de votre choix de cette carte double.
+
+* Si vous jouez une carte de cette manière, vous la jouez en tant que partie de la résolution de la capacité de cascade. Les restrictions de temps basées sur le type de la carte (comme créature ou rituel) sont ignorées. D'autres restrictions de jeu ne le sont pas (comme « Ne jouez [cette carte] qu'avant la déclaration des attaquants »).
+
+* Un sort joué en tant que partie de la résolution de la cascade est jouée depuis le zone retirée-de-la-partie, pas depuis votre bibliothèque.
+
+* Si vous jouez une carte « sans payer son coût de mana », vous ne pouvez pas payer de coût alternatif comme l'évocation ou le coût alternatif de la capacité de mue. S’il y a X dans son coût de mana, X doit valoir 0. Cependant, vous pouvez payer les coûts supplémentaires optionnels, comme la conspiration, et vous devez payer les coûts supplémentaires obligatoires, comme celui de l'Orprairien vigoureux.
+
+* Si vous jouez une carte de cette manière, vous la jouez comme un sort. Elle peut être contrecarrée. Si vous jouez une autre carte avec la cascade de cette manière, la capacité de cascade du nouveau sort se déclenche, et vous répétez le processus pour ce nouveau sort.
+
+* Après avoir joué une carte applicable, vous réarrangez aléatoirement les autres cartes retirées de la partie de cette manière et vous les mettez au-dessous de votre bibliothèque. Ni vous, ni les autres joueurs ne voyez l'ordre de ces cartes.
+
+* Si vous ne voulez pas jouer la carte applicable que vous retirez de la partie avec la capacité de cascade, vous n'y êtes pas contraint. Ajoutez-la aux autres cartes retirées de la partie de cette manière quand vous les réarrangez aléatoirement pour les mettre au-dessous de votre bibliothèque. La même chose est vraie pour une carte applicable que vous ne pouvez pas jouer (par exemple, parce qu'elle n'a pas de cible légale).
+
+* Si vous jouez un sort avec la cascade et qu'il n'y a pas de carte non-terrain dans votre bibliothèque avec un coût converti de mana qui soit inférieur au coût converti de mana de ce sort, vous retirez toute votre bibliothèque de la partie. Ensuite, vous réarrangez ces cartes aléatoirement et vous les utilisez à nouveau comme votre bibliothèque. Même si selon toute apparence, cela équivaut à mélanger ces cartes, ce n'est pas techniquement ce que vous faites ; les capacités qui se déclenchent à chaque fois que vous mélangez votre bibliothèque ne se déclenchent pas.
+-----</comments>
+    <zone name="side">
+        <card number="1" price="0" name="Maelstrom Wanderer"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Etherium-Horn Sorcerer"/>
+        <card number="1" price="0" name="Call the Skybreaker"/>
+        <card number="1" price="0" name="Knowledge Exploitation"/>
+        <card number="1" price="0" name="Coastal Breach"/>
+        <card number="1" price="0" name="Tromokratis"/>
+        <card number="1" price="0" name="Spirit Away"/>
+        <card number="1" price="0" name="Quicksilver Gargantuan"/>
+        <card number="1" price="0" name="Supreme Exemplar"/>
+        <card number="1" price="0" name="Phyrexian Ingester"/>
+        <card number="1" price="0" name="Omnath, Locus of Rage"/>
+        <card number="1" price="0" name="Destructive Force"/>
+        <card number="1" price="0" name="Form of the Dragon"/>
+        <card number="1" price="0" name="Skyline Despot"/>
+        <card number="1" price="0" name="Tyrant's Familiar"/>
+        <card number="1" price="0" name="Mythic Proportions"/>
+        <card number="1" price="0" name="Inkmoth Nexus"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Zoetic Cavern"/>
+        <card number="1" price="0" name="Maelstrom Djinn"/>
+        <card number="1" price="0" name="Scornful Egotist"/>
+        <card number="1" price="0" name="Glacial Chasm"/>
+        <card number="1" price="0" name="Halls of Mist"/>
+        <card number="1" price="0" name="Ice Floe"/>
+        <card number="1" price="0" name="Island of Wak-Wak"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Cavern of Souls"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Mutavault"/>
+        <card number="1" price="0" name="Primal Beyond"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="1" price="0" name="Springjack Pasture"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Mirrorpool"/>
+        <card number="1" price="0" name="Mishra's Factory"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+        <card number="1" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Tolaria West"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Fire-Lit Thicket"/>
+        <card number="1" price="0" name="Gruul Turf"/>
+        <card number="1" price="0" name="Raging Ravine"/>
+        <card number="1" price="0" name="Temple of Abandon"/>
+        <card number="1" price="0" name="Flooded Grove"/>
+        <card number="1" price="0" name="Lumbering Falls"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Cascade Bluffs"/>
+        <card number="1" price="0" name="Desolate Lighthouse"/>
+        <card number="1" price="0" name="Izzet Boilerworks"/>
+        <card number="1" price="0" name="Temple of Epiphany"/>
+        <card number="1" price="0" name="Wandering Fumarole"/>
+        <card number="1" price="0" name="Cloudthresher"/>
+        <card number="1" price="0" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" price="0" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" price="0" name="Walker of the Grove"/>
+        <card number="1" price="0" name="Unknown Shores"/>
+        <card number="1" price="0" name="Thespian's Stage"/>
+        <card number="1" price="0" name="Scorched Ruins"/>
+        <card number="1" price="0" name="Radiant Fountain"/>
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="1" price="0" name="Frontier Bivouac"/>
+        <card number="1" price="0" name="Naya Panorama"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="1" price="0" name="Ancient Ziggurat"/>
+        <card number="1" price="0" name="Gemstone Mine"/>
+        <card number="1" price="0" name="Lotus Vale"/>
+        <card number="1" price="0" name="Pillar of the Paruns"/>
+        <card number="1" price="0" name="Reflecting Pool"/>
+        <card number="1" price="0" name="Rupture Spire"/>
+        <card number="1" price="0" name="Tendo Ice Bridge"/>
+        <card number="1" price="0" name="Transguild Promenade"/>
+        <card number="1" price="0" name="Primeval Protector"/>
+        <card number="1" price="0" name="Greater Gargadon"/>
+        <card number="1" price="0" name="Deep-Sea Kraken"/>
+        <card number="1" price="0" name="Blasphemous Act"/>
+        <card number="1" price="0" name="Dichotomancy"/>
+        <card number="1" price="0" name="Grozoth"/>
+        <card number="1" price="0" name="Avatar of Will"/>
+        <card number="1" price="0" name="Avatar of Fury"/>
+        <card number="1" price="0" name="Treacherous Terrain"/>
+        <card number="1" price="0" name="Avatar of Might"/>
+    </zone>
+</cockatrice_deck>

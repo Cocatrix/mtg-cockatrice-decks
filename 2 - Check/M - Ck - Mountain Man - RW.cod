@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Ck - Mountain Man - RW</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Awaken the Ancient"/>
+        <card number="2" price="0" name="Valakut, the Molten Pinnacle"/>
+        <card number="4" price="0" name="Goblin Mountaineer"/>
+        <card number="2" price="0" name="Genju of the Spires"/>
+        <card number="3" price="0" name="Siege of Towers"/>
+        <card number="4" price="0" name="Goblin King"/>
+        <card number="3" price="0" name="Claws of Valakut"/>
+        <card number="4" price="0" name="Magus of the Moon"/>
+        <card number="1" price="0" name="Blood Moon"/>
+        <card number="1" price="0" name="Peak Eruption"/>
+        <card number="1" price="0" name="Koth of the Hammer"/>
+        <card number="1" price="0" name="Akoum Hellkite"/>
+        <card number="4" price="0" name="Oxidda Golem"/>
+        <card number="1" price="0" name="Spawn of Thraxes"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Terra Eternal"/>
+        <card number="4" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Plateau"/>
+        <card number="4" price="0" name="Sacred Foundry"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="3" price="0" name="Chained to the Rocks"/>
+        <card number="1" price="0" name="Renewing Dawn"/>
+        <card number="2" price="0" name="Planar Outburst"/>
+        <card number="1" price="0" name="Sheer Drop"/>
+        <card number="1" price="0" name="Encircling Fissure"/>
+        <card number="2" price="0" name="Embodiment of Fury"/>
+    </zone>
+</cockatrice_deck>

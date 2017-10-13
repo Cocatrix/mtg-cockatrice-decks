@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>U</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Blighted Cataract"/>
+        <card number="1" price="0" name="Cephalid Coliseum"/>
+        <card number="1" price="0" name="Coral Atoll"/>
+        <card number="1" price="0" name="Faerie Conclave"/>
+        <card number="1" price="0" name="Halimar Depths"/>
+        <card number="1" price="0" name="Lonely Sandbar"/>
+        <card number="1" price="0" name="Magosi, the Waterveil"/>
+        <card number="1" price="0" name="Remote Isle"/>
+        <card number="1" price="0" name="Riptide Laboratory"/>
+        <card number="1" price="0" name="Sand Silos"/>
+        <card number="1" price="0" name="Saprazzan Cove"/>
+        <card number="1" price="0" name="Saprazzan Skerry"/>
+        <card number="1" price="0" name="Seafarer's Quay"/>
+        <card number="1" price="0" name="Seafloor Debris"/>
+        <card number="1" price="0" name="Shelldock Isle"/>
+        <card number="1" price="0" name="Skyline Cascade"/>
+        <card number="1" price="0" name="Soaring Seacliff"/>
+        <card number="1" price="0" name="Soldevi Excavations"/>
+        <card number="1" price="0" name="Svyelunite Temple"/>
+        <card number="1" price="0" name="Thawing Glaciers"/>
+        <card number="1" price="0" name="Tolaria West"/>
+        <card number="1" price="0" name="Tolaria"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Moonring Island"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M- Pop - Infection Artefact - UG</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Cathedral of War"/>
+        <card number="1" price="0" name="Inkmoth Nexus"/>
+        <card number="4" price="0" name="Necropede"/>
+        <card number="4" price="0" name="Ichorclaw Myr"/>
+        <card number="4" price="0" name="Core Prowler"/>
+        <card number="4" price="0" name="Plague Myr"/>
+        <card number="4" price="0" name="Contagion Clasp"/>
+        <card number="2" price="0" name="Contagion Engine"/>
+        <card number="4" price="0" name="Throne of Geth"/>
+        <card number="2" price="0" name="Tezzeret's Gambit"/>
+        <card number="2" price="0" name="Corpse Cur"/>
+        <card number="2" price="0" name="Decimator Web"/>
+        <card number="1" price="0" name="Glimmerpost"/>
+        <card number="4" price="0" name="Mutagenic Growth"/>
+        <card number="1" price="0" name="Tendo Ice Bridge"/>
+        <card number="2" price="0" name="Chariot of Victory"/>
+        <card number="1" price="0" name="Akroma's Memorial"/>
+        <card number="1" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Yavimaya Hollow"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Ancient Tomb"/>
+        <card number="1" price="0" name="Mirrodin's Core"/>
+        <card number="1" price="0" name="Blasted Landscape"/>
+        <card number="1" price="0" name="Radiant Fountain"/>
+        <card number="1" price="0" name="Scorched Ruins"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Tomb of the Spirit Dragon"/>
+        <card number="1" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Simic Growth Chamber"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Dismember"/>
+        <card number="4" price="0" name="Noxious Revival"/>
+        <card number="2" price="0" name="Horned Helm"/>
+        <card number="1" price="0" name="Blightsteel Colossus"/>
+        <card number="1" price="0" name="Akroma's Memorial"/>
+        <card number="1" price="0" name="Timberland Ruins"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Woodland Stream"/>
+    </zone>
+</cockatrice_deck>

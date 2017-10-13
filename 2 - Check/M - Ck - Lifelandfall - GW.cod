@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Check - Lifelandfall - GW</deckname>
+    <comments>Fastbond</comments>
+    <zone name="main">
+        <card number="3" price="0" name="Oracle of Mul Daya"/>
+        <card number="2" price="0" name="Azusa, Lost but Seeking"/>
+        <card number="2" price="0" name="Rites of Flourishing"/>
+        <card number="1" price="0" name="Exploration"/>
+        <card number="4" price="0" name="Crucible of Worlds"/>
+        <card number="4" price="0" name="Mox Diamond"/>
+        <card number="2" price="0" name="Life from the Loam"/>
+        <card number="2" price="0" name="Dust Bowl"/>
+        <card number="4" price="0" name="Jaddi Offshoot"/>
+        <card number="1" price="0" name="Lotus Cobra"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="4" price="0" name="Radiant Fountain"/>
+        <card number="4" price="0" name="Ghost Quarter"/>
+        <card number="4" price="0" name="Dryad Arbor"/>
+        <card number="1" price="0" name="Felidar Sovereign"/>
+        <card number="3" price="0" name="Plains"/>
+        <card number="4" price="0" name="Grazing Gladehart"/>
+        <card number="4" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Dark Depths"/>
+        <card number="2" price="0" name="Glacial Chasm"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="2" price="0" name="Temple of Plenty"/>
+        <card number="1" price="0" name="Scute Mob"/>
+        <card number="1" price="0" name="Gods' Eye, Gate to the Reikai"/>
+    </zone>
+</cockatrice_deck>

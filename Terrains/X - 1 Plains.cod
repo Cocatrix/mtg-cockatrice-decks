@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>W</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Plains"/>
+        <card number="2" price="0" name="Mistveil Plains"/>
+        <card number="1" price="0" name="Snow-Covered Plains"/>
+        <card number="1" price="0" name="Abandoned Outpost"/>
+        <card number="1" price="0" name="Ancient Den"/>
+        <card number="1" price="0" name="Blighted Steppe"/>
+        <card number="1" price="0" name="Cathedral of Serra"/>
+        <card number="1" price="0" name="Daru Encampment"/>
+        <card number="1" price="0" name="Drifting Meadow"/>
+        <card number="1" price="0" name="Emeria, the Sky Ruin"/>
+        <card number="1" price="0" name="Forbidding Watchtower"/>
+        <card number="1" price="0" name="Fountain of Cho"/>
+        <card number="1" price="0" name="Icatian Store"/>
+        <card number="1" price="0" name="Kabira Crossroads"/>
+        <card number="1" price="0" name="Karoo"/>
+        <card number="1" price="0" name="Kjeldoran Outpost"/>
+        <card number="1" price="0" name="New Benalia"/>
+        <card number="1" price="0" name="Nomad Stadium"/>
+        <card number="1" price="0" name="Remote Farm"/>
+        <card number="1" price="0" name="Ruins of Trokair"/>
+        <card number="1" price="0" name="Rustic Clachan"/>
+        <card number="1" price="0" name="Sandstone Bridge"/>
+        <card number="1" price="0" name="Secluded Steppe"/>
+        <card number="1" price="0" name="Sejiri Refuge"/>
+        <card number="1" price="0" name="Vivid Meadow"/>
+        <card number="1" price="0" name="Windbrisk Heights"/>
+    </zone>
+</cockatrice_deck>

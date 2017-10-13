@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BW</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Caves of Koilos"/>
+        <card number="1" price="0" name="Concealed Courtyard"/>
+        <card number="1" price="0" name="Fetid Heath"/>
+        <card number="1" price="0" name="Forsaken Sanctuary"/>
+        <card number="1" price="0" name="Isolated Chapel"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Orzhov Cluestone"/>
+        <card number="1" price="0" name="Orzhov Keyrune"/>
+        <card number="1" price="0" name="Orzhov Signet"/>
+        <card number="1" price="0" name="Orzhova, the Church of Deals"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="1" price="0" name="Salt Flats"/>
+        <card number="1" price="0" name="Scoured Barrens"/>
+        <card number="1" price="0" name="Shambling Vent"/>
+        <card number="1" price="0" name="Starlit Sanctum"/>
+        <card number="1" price="0" name="Tainted Field"/>
+        <card number="1" price="0" name="Temple of Silence"/>
+        <card number="1" price="0" name="Vault of the Archangel"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Godless Shrine"/>
+        <card number="1" price="0" name="Scrubland"/>
+    </zone>
+</cockatrice_deck>

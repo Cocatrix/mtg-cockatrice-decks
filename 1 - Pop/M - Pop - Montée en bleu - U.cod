@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Pop - Montée en bleu - U</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Coralhelm Commander"/>
+        <card number="4" price="0" name="Enclave Cryptologist"/>
+        <card number="1" price="0" name="Hada Spy Patrol"/>
+        <card number="2" price="0" name="Halimar Wavewatch"/>
+        <card number="2" price="0" name="Venerated Teacher"/>
+        <card number="3" price="0" name="Lighthouse Chronologist"/>
+        <card number="4" price="0" name="Contagion Clasp"/>
+        <card number="2" price="0" name="Inexorable Tide"/>
+        <card number="1" price="0" name="Steady Progress"/>
+        <card number="3" price="0" name="Thrummingbird"/>
+        <card number="1" price="0" name="Fuel for the Cause"/>
+        <card number="2" price="0" name="Tezzeret's Gambit"/>
+        <card number="1" price="0" name="Energy Chamber"/>
+        <card number="18" price="0" name="Island"/>
+        <card number="3" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Shrine of Piercing Vision"/>
+        <card number="2" price="0" name="Lux Cannon"/>
+        <card number="1" price="0" name="Golden Urn"/>
+        <card number="3" price="0" name="Door of Destinies"/>
+        <card number="1" price="0" name="Saprazzan Skerry"/>
+        <card number="1" price="0" name="Magosi, the Waterveil"/>
+    </zone>
+</cockatrice_deck>

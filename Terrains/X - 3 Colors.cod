@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>3</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="An-Havva Township"/>
+        <card number="1" price="0" name="Ancient Spring"/>
+        <card number="1" price="0" name="Arcane Sanctum"/>
+        <card number="1" price="0" name="Aysen Abbey"/>
+        <card number="1" price="0" name="Bant Panorama"/>
+        <card number="2" price="0" name="Seaside Citadel"/>
+        <card number="1" price="0" name="Castle Sengir"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Esper Panorama"/>
+        <card number="1" price="0" name="Frontier Bivouac"/>
+        <card number="1" price="0" name="Geothermal Crevice"/>
+        <card number="1" price="0" name="Grixis Panorama"/>
+        <card number="1" price="0" name="Irrigation Ditch"/>
+        <card number="1" price="0" name="Jund Panorama"/>
+        <card number="1" price="0" name="Jungle Shrine"/>
+        <card number="1" price="0" name="Koskun Keep"/>
+        <card number="1" price="0" name="Mystic Monastery"/>
+        <card number="1" price="0" name="Naya Panorama"/>
+        <card number="1" price="0" name="Nomad Outpost"/>
+        <card number="1" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Sandsteppe Citadel"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="1" price="0" name="Sulfur Vent"/>
+        <card number="1" price="0" name="Tinder Farm"/>
+        <card number="1" price="0" name="Wizards' School"/>
+        <card number="1" price="0" name="Murmuring Bosk"/>
+        <card number="1" price="0" name="Crosis's Catacombs"/>
+        <card number="1" price="0" name="Darigaaz's Caldera"/>
+        <card number="1" price="0" name="Dromar's Cavern"/>
+        <card number="1" price="0" name="Rith's Grove"/>
+        <card number="1" price="0" name="Treva's Ruins"/>
+    </zone>
+</cockatrice_deck>

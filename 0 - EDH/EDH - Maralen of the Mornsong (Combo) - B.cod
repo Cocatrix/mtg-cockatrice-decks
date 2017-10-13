@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH - Maralen of the Mornsong (Combo) - B</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Maralen of the Mornsong"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Vengeful Dead"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="1" price="0" name="Phyrexian Altar"/>
+        <card number="1" price="0" name="Geralf's Messenger"/>
+        <card number="1" price="0" name="Retribution of the Ancients"/>
+        <card number="1" price="0" name="Ashnod's Altar"/>
+        <card number="1" price="0" name="Relentless Dead"/>
+        <card number="1" price="0" name="Basalt Monolith"/>
+        <card number="1" price="0" name="Crackdown Construct"/>
+        <card number="1" price="0" name="Undead Warchief"/>
+        <card number="1" price="0" name="Endless Ranks of the Dead"/>
+        <card number="1" price="0" name="Altar of Dementia"/>
+        <card number="1" price="0" name="Bitter Ordeal"/>
+        <card number="1" price="0" name="Diregraf Colossus"/>
+        <card number="85" price="0" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

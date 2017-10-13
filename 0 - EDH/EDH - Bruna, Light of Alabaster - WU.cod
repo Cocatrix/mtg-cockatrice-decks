@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - EDH - Bruna, Light of Alabaster - WU</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Bruna, Light of Alabaster"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Sunlance"/>
+        <card number="1" price="0" name="Sejiri Refuge"/>
+        <card number="1" price="0" name="Awe Strike"/>
+        <card number="1" price="0" name="Aura Finesse"/>
+        <card number="1" price="0" name="Stormscape Familiar"/>
+        <card number="1" price="0" name="Ajani's Chosen"/>
+        <card number="1" price="0" name="Hopeful Eidolon"/>
+        <card number="1" price="0" name="Heliod's Emissary"/>
+        <card number="1" price="0" name="Heliod's Pilgrim"/>
+        <card number="1" price="0" name="Chosen by Heliod"/>
+        <card number="1" price="0" name="Ordeal of Heliod"/>
+        <card number="1" price="0" name="Hypnotic Siren"/>
+        <card number="1" price="0" name="Iridescent Drake"/>
+        <card number="1" price="0" name="Sage's Reverie"/>
+        <card number="1" price="0" name="Auramancer's Guise"/>
+        <card number="1" price="0" name="Graceblade Artisan"/>
+        <card number="1" price="0" name="Academy Researchers"/>
+        <card number="1" price="0" name="Kitsune Mystic"/>
+        <card number="1" price="0" name="Cloudfin Raptor"/>
+        <card number="1" price="0" name="Eel Umbra"/>
+        <card number="1" price="0" name="Auramancer"/>
+        <card number="1" price="0" name="Observant Alseid"/>
+        <card number="1" price="0" name="Nyxborn Shieldmate"/>
+        <card number="1" price="0" name="Rootwater Shaman"/>
+        <card number="1" price="0" name="Sightless Brawler"/>
+        <card number="1" price="0" name="Thassa's Emissary"/>
+        <card number="1" price="0" name="Sigiled Starfish"/>
+        <card number="1" price="0" name="Ardent Plea"/>
+        <card number="1" price="0" name="Drake Umbra"/>
+        <card number="1" price="0" name="Knightly Valor"/>
+        <card number="1" price="0" name="Mammoth Umbra"/>
+        <card number="1" price="0" name="Murder Investigation"/>
+        <card number="1" price="0" name="Azorius Chancery"/>
+        <card number="1" price="0" name="Helm of the Gods"/>
+        <card number="1" price="0" name="Tablet of the Guilds"/>
+        <card number="1" price="0" name="Eland Umbra"/>
+        <card number="1" price="0" name="Ethereal Armor"/>
+        <card number="1" price="0" name="Fate Foretold"/>
+        <card number="1" price="0" name="Ghostblade Eidolon"/>
+        <card number="1" price="0" name="Ghostly Touch"/>
+        <card number="1" price="0" name="Glaring Aegis"/>
+        <card number="1" price="0" name="Griffin Guide"/>
+        <card number="1" price="0" name="High Ground"/>
+        <card number="1" price="0" name="Hyena Umbra"/>
+        <card number="1" price="0" name="Infiltrator's Magemark"/>
+        <card number="1" price="0" name="Journey to Nowhere"/>
+        <card number="1" price="0" name="Military Intelligence"/>
+        <card number="1" price="0" name="Nimbus Naiad"/>
+        <card number="1" price="0" name="Ordeal of Thassa"/>
+        <card number="1" price="0" name="Propaganda"/>
+        <card number="1" price="0" name="Sigil of Sleep"/>
+        <card number="1" price="0" name="Temporal Isolation"/>
+        <card number="1" price="0" name="Banishing Stroke"/>
+        <card number="1" price="0" name="Blessed Spirits"/>
+        <card number="1" price="0" name="Meletis Astronomer"/>
+        <card number="1" price="0" name="Mesa Enchantress"/>
+        <card number="1" price="0" name="Righteous Authority"/>
+        <card number="1" price="0" name="Annex"/>
+        <card number="1" price="0" name="Aqueous Form"/>
+        <card number="1" price="0" name="Archery Training"/>
+        <card number="1" price="0" name="Battle Mastery"/>
+        <card number="1" price="0" name="Betrayal"/>
+        <card number="1" price="0" name="Bonds of Faith"/>
+        <card number="1" price="0" name="Steel of the Godhead"/>
+        <card number="1" price="0" name="Suture Priest"/>
+        <card number="17" price="0" name="Plains"/>
+        <card number="17" price="0" name="Island"/>
+        <card number="1" price="0" name="Silkbind Faerie"/>
+        <card number="1" price="0" name="Minister of Impediments"/>
+        <card number="1" price="0" name="Judge's Familiar"/>
+        <card number="1" price="0" name="Zealous Guardian"/>
+        <card number="1" price="0" name="Repel Intruders"/>
+        <card number="1" price="0" name="Ajani's Pridemate"/>
+        <card number="1" price="0" name="Akrasan Squire"/>
+        <card number="1" price="0" name="Battlewise Hoplite"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bazar quand on manque d'idées</deckname>
+    <comments>Evolution Vat + Crystalline Crawler
+Library of Leng + Deck Miracle</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Khalni Hydra"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Civic Saber"/>
+        <card number="1" price="0" name="Stoneforge Masterwork"/>
+        <card number="1" price="0" name="Despotic Scepter"/>
+        <card number="1" price="0" name="Locket of Yesterdays"/>
+        <card number="1" price="0" name="Nyxathid"/>
+        <card number="1" price="0" name="Condescend"/>
+        <card number="1" price="0" name="Leatherback Baloth"/>
+        <card number="1" price="0" name="Foul-Tongue Shriek"/>
+        <card number="1" price="0" name="Foul-Tongue Invocation"/>
+        <card number="1" price="0" name="Rolling Stones"/>
+        <card number="1" price="0" name="Stoneshaker Shaman"/>
+        <card number="1" price="0" name="Alesha, Who Smiles at Death"/>
+        <card number="1" price="0" name="Craterhoof Behemoth"/>
+        <card number="1" price="0" name="Bonfire of the Damned"/>
+        <card number="1" price="0" name="Forked Bolt"/>
+        <card number="1" price="0" name="Macabre Waltz"/>
+        <card number="1" price="0" name="Rise of the Dark Realms"/>
+        <card number="1" price="0" name="Drana, Liberator of Malakir"/>
+        <card number="1" price="0" name="Memory Crystal"/>
+        <card number="1" price="0" name="Heartless Summoning"/>
+        <card number="1" price="0" name="Tablet of the Guilds"/>
+        <card number="1" price="0" name="Inexorable Tide"/>
+        <card number="1" price="0" name="Terra Eternal"/>
+        <card number="1" price="0" name="Avatar of Woe"/>
+        <card number="1" price="0" name="Avatar of Hope"/>
+        <card number="1" price="0" name="Time of Heroes"/>
+        <card number="1" price="0" name="Open the Vaults"/>
+        <card number="1" price="0" name="Treachery"/>
+        <card number="1" price="0" name="Magus of the Will"/>
+        <card number="1" price="0" name="Abyssal Persecutor"/>
+        <card number="1" price="0" name="Zombie Master"/>
+        <card number="1" price="0" name="Darkest Hour"/>
+        <card number="1" price="0" name="Undergrowth Champion"/>
+        <card number="1" price="0" name="Lighthouse Chronologist"/>
+        <card number="1" price="0" name="Songs of the Damned"/>
+        <card number="1" price="0" name="Vine Dryad"/>
+        <card number="1" price="0" name="Trait Doctoring"/>
+        <card number="1" price="0" name="Spinning Darkness"/>
+        <card number="1" price="0" name="Shadow Slice"/>
+        <card number="1" price="0" name="Blazing Shoal"/>
+        <card number="1" price="0" name="Emerge Unscathed"/>
+        <card number="1" price="0" name="Distortion Strike"/>
+        <card number="1" price="0" name="Skyfire Kirin"/>
+        <card number="1" price="0" name="Rage Extractor"/>
+        <card number="1" price="0" name="Emmara Tandris"/>
+        <card number="1" price="0" name="Obelisk of Urd"/>
+        <card number="1" price="0" name="Scute Mob"/>
+        <card number="1" price="0" name="Shifting Sky"/>
+        <card number="1" price="0" name="Shifting Borders"/>
+        <card number="1" price="0" name="Arjun, the Shifting Flame"/>
+        <card number="1" price="0" name="Synod Sanctum"/>
+        <card number="1" price="0" name="Dolmen Gate"/>
+        <card number="1" price="0" name="Omniscience"/>
+        <card number="1" price="0" name="Animation Module"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Animate Dead"/>
+        <card number="1" price="0" name="Sages of the Anima"/>
+    </zone>
+</cockatrice_deck>

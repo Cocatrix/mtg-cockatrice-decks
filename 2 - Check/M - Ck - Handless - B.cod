@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Handless - B</deckname>
+    <comments>Jouer toutes ses cartes</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dark Suspicions"/>
+        <card number="4" price="0" name="Master of the Feast"/>
+        <card number="4" price="0" name="Memnite"/>
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="1" price="0" name="Phyrexian Walker"/>
+        <card number="1" price="0" name="Paradise Mantle"/>
+        <card number="1" price="0" name="Welding Jar"/>
+        <card number="1" price="0" name="Lotus Petal"/>
+        <card number="1" price="0" name="Mox Opal"/>
+        <card number="1" price="0" name="Chrome Mox"/>
+        <card number="2" price="0" name="Slaughter Pact"/>
+        <card number="4" price="0" name="Shield Sphere"/>
+        <card number="2" price="0" name="Shuko"/>
+        <card number="1" price="0" name="Arcbound Worker"/>
+        <card number="4" price="0" name="Myr Servitor"/>
+        <card number="1" price="0" name="Meekstone"/>
+        <card number="1" price="0" name="Consulate Dreadnought"/>
+        <card number="3" price="0" name="Sign in Blood"/>
+        <card number="17" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Thought Gorger"/>
+        <card number="1" price="0" name="Dark Ritual"/>
+        <card number="1" price="0" name="Infernal Tutor"/>
+    </zone>
+</cockatrice_deck>

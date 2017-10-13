@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH - 8,5 Tails</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Eight-and-a-Half-Tails"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Angel's Feather"/>
+        <card number="1" price="0" name="Pearl Medallion"/>
+        <card number="1" price="0" name="Sword of Light and Shadow"/>
+        <card number="1" price="0" name="Shrine of Loyal Legions"/>
+        <card number="1" price="0" name="Ring of Thune"/>
+        <card number="1" price="0" name="Cathedral of Serra"/>
+        <card number="1" price="0" name="Martial Coup"/>
+        <card number="1" price="0" name="Elspeth Tirel"/>
+        <card number="1" price="0" name="Sunscour"/>
+        <card number="1" price="0" name="Kirtar's Wrath"/>
+        <card number="1" price="0" name="Cloudchaser Kestrel"/>
+        <card number="1" price="0" name="Elspeth, Sun's Champion"/>
+        <card number="1" price="0" name="March of Souls"/>
+        <card number="1" price="0" name="Spirit Bonds"/>
+    </zone>
+</cockatrice_deck>

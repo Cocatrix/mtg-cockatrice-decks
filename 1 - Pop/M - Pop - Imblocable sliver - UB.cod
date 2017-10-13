@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Pop - Imblocable sliver - UB</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Frenzy Sliver"/>
+        <card number="2" price="0" name="Synchronous Sliver"/>
+        <card number="2" price="0" name="Shifting Sliver"/>
+        <card number="1" price="0" name="Clot Sliver"/>
+        <card number="2" price="0" name="Diffusion Sliver"/>
+        <card number="1" price="0" name="Dementia Sliver"/>
+        <card number="3" price="0" name="Syphon Sliver"/>
+        <card number="1" price="0" name="Hibernation Sliver"/>
+        <card number="4" price="0" name="Galerider Sliver"/>
+        <card number="1" price="0" name="Psionic Sliver"/>
+        <card number="1" price="0" name="Synapse Sliver"/>
+        <card number="4" price="0" name="Winged Sliver"/>
+        <card number="1" price="0" name="Sliver Hive"/>
+        <card number="3" price="0" name="Metallic Sliver"/>
+        <card number="1" price="0" name="Darkwater Egg"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="4" price="0" name="Amulet of Vigor"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Drowned Catacomb"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="5" price="0" name="Island"/>
+        <card number="4" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Cairn Wanderer"/>
+        <card number="1" price="0" name="Darkslick Shores"/>
+        <card number="1" price="0" name="Darkwater Catacombs"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="River of Tears"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+    </zone>
+</cockatrice_deck>

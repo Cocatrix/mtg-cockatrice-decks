@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Vintage - Deck Myr Pur - ¤</deckname>
+    <comments>
+</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Myr Battlesphere"/>
+        <card number="4" price="0" name="Myr Galvanizer"/>
+        <card number="1" price="0" name="Myr Reservoir"/>
+        <card number="4" price="0" name="Myr Retriever"/>
+        <card number="4" price="0" name="Myr Servitor"/>
+        <card number="4" price="0" name="Myr Turbine"/>
+        <card number="2" price="0" name="Shimmer Myr"/>
+        <card number="2" price="0" name="Myr Enforcer"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Karn Liberated"/>
+        <card number="1" price="0" name="Loxodon Warhammer"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="2" price="0" name="Unwinding Clock"/>
+        <card number="4" price="0" name="Clock of Omens"/>
+        <card number="4" price="0" name="Cloudpost"/>
+        <card number="4" price="0" name="Glimmerpost"/>
+        <card number="1" price="0" name="Darksteel Forge"/>
+        <card number="1" price="0" name="Tolarian Academy"/>
+        <card number="1" price="0" name="Strip Mine"/>
+        <card number="1" price="0" name="Mox Emerald"/>
+        <card number="1" price="0" name="Mox Jet"/>
+        <card number="1" price="0" name="Mox Opal"/>
+        <card number="1" price="0" name="Mox Pearl"/>
+        <card number="1" price="0" name="Mox Ruby"/>
+        <card number="1" price="0" name="Mox Sapphire"/>
+        <card number="1" price="0" name="Mishra's Workshop"/>
+        <card number="1" price="0" name="Coat of Arms"/>
+        <card number="1" price="0" name="Lodestone Myr"/>
+        <card number="2" price="0" name="Seat of the Synod"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Voltaic Key"/>
+        <card number="2" price="0" name="Thousand-Year Elixir"/>
+        <card number="1" price="0" name="Chalice of the Void"/>
+        <card number="1" price="0" name="Claws of Gix"/>
+        <card number="1" price="0" name="Fountain of Youth"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="3" price="0" name="Tormod's Crypt"/>
+        <card number="2" price="0" name="Loxodon Warhammer"/>
+        <card number="2" price="0" name="Seat of the Synod"/>
+    </zone>
+</cockatrice_deck>

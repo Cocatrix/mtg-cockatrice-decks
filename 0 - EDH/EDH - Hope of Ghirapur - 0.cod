@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - EDH - Hope of Ghirapur - 0</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Hope of Ghirapur"/>
+    </zone>
+    <zone name="main">
+        <card number="22" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Lotus Bloom"/>
+        <card number="1" price="0" name="Welding Jar"/>
+        <card number="1" price="0" name="Everflowing Chalice"/>
+        <card number="1" price="0" name="Sol Ring"/>
+    </zone>
+</cockatrice_deck>

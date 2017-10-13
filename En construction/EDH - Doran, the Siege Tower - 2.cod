@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH - Kheru, Bloodsucker - WBG</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Kheru Bloodsucker"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Tree of Redemption"/>
+        <card number="1" price="0" name="Kin-Tree Invocation"/>
+        <card number="1" price="0" name="Nyx-Fleece Ram"/>
+        <card number="1" price="0" name="Crenellated Wall"/>
+        <card number="1" price="0" name="Prophetic Prism"/>
+        <card number="1" price="0" name="Assault Formation"/>
+        <card number="1" price="0" name="Grim Contest"/>
+        <card number="1" price="0" name="Spidersilk Armor"/>
+        <card number="1" price="0" name="Forbidding Watchtower"/>
+        <card number="1" price="0" name="Grim Backwoods"/>
+        <card number="1" price="0" name="Murmuring Bosk"/>
+        <card number="1" price="0" name="Wall of Mulch"/>
+        <card number="1" price="0" name="Wakestone Gargoyle"/>
+        <card number="1" price="0" name="Treefolk Harbinger"/>
+        <card number="1" price="0" name="Skinshifter"/>
+        <card number="1" price="0" name="Overgrown Battlement"/>
+        <card number="1" price="0" name="Oathsworn Giant"/>
+        <card number="1" price="0" name="Hundred-Handed One"/>
+        <card number="1" price="0" name="Gatecreeper Vine"/>
+        <card number="1" price="0" name="Carven Caryatid"/>
+        <card number="1" price="0" name="Axebane Guardian"/>
+        <card number="1" price="0" name="Archers' Parapet"/>
+        <card number="1" price="0" name="Ezuri's Archers"/>
+        <card number="1" price="0" name="Grizzled Leotau"/>
+        <card number="1" price="0" name="Ornithopter"/>
+        <card number="1" price="0" name="Bosk Banneret"/>
+        <card number="1" price="0" name="Slagwurm Armor"/>
+        <card number="1" price="0" name="Palace Guard"/>
+        <card number="1" price="0" name="Perimeter Captain"/>
+        <card number="1" price="0" name="Llanowar Elves"/>
+        <card number="1" price="0" name="Abundant Growth"/>
+        <card number="1" price="0" name="Wall of Vines"/>
+        <card number="1" price="0" name="Necra Disciple"/>
+        <card number="1" price="0" name="Pride Guardian"/>
+        <card number="1" price="0" name="Stalwart Shield-Bearers"/>
+        <card number="1" price="0" name="Indomitable Ancients"/>
+        <card number="1" price="0" name="Wall of Tanglecord"/>
+        <card number="1" price="0" name="Shape the Sands"/>
+        <card number="1" price="0" name="Tower Defense"/>
+        <card number="1" price="0" name="Black Oak of Odunos"/>
+        <card number="1" price="0" name="Black Poplar Shaman"/>
+        <card number="1" price="0" name="Village Bell-Ringer"/>
+        <card number="1" price="0" name="Korozda Guildmage"/>
+        <card number="1" price="0" name="Awakening Zone"/>
+        <card number="1" price="0" name="Wall of Reverence"/>
+        <card number="1" price="0" name="Wall of Resistance"/>
+        <card number="1" price="0" name="Verdeloth the Ancient"/>
+        <card number="1" price="0" name="Animal Boneyard"/>
+        <card number="1" price="0" name="Animate Wall"/>
+        <card number="1" price="0" name="Chosen by Heliod"/>
+        <card number="1" price="0" name="Conclave's Blessing"/>
+        <card number="1" price="0" name="Divine Favor"/>
+        <card number="1" price="0" name="Accorder's Shield"/>
+        <card number="1" price="0" name="Mwonvuli Acid-Moss"/>
+        <card number="1" price="0" name="Leaf-Crowned Elder"/>
+        <card number="1" price="0" name="Ghoultree"/>
+        <card number="1" price="0" name="Deadwood Treefolk"/>
+        <card number="1" price="0" name="Battlewand Oak"/>
+        <card number="1" price="0" name="Lignify"/>
+        <card number="1" price="0" name="Reach of Branches"/>
+        <card number="1" price="0" name="Rootgrapple"/>
+        <card number="1" price="0" name="Sapling of Colfenor"/>
+        <card number="1" price="0" name="Thorntooth Witch"/>
+        <card number="1" price="0" name="Unstoppable Ash"/>
+        <card number="1" price="0" name="Llanowar Augur"/>
+        <card number="1" price="0" name="Orochi Leafcaller"/>
+        <card number="1" price="0" name="Sachi, Daughter of Seshiro"/>
+        <card number="1" price="0" name="Blessed Orator"/>
+        <card number="1" price="0" name="Eland Umbra"/>
+        <card number="1" price="0" name="Gift of Granite"/>
+        <card number="1" price="0" name="Gift of the Woods"/>
+        <card number="1" price="0" name="Holy Armor"/>
+        <card number="1" price="0" name="Leyline of Vitality"/>
+        <card number="1" price="0" name="Lumithread Field"/>
+        <card number="1" price="0" name="Parapet"/>
+        <card number="1" price="0" name="Veteran Armorer"/>
+        <card number="1" price="0" name="Spider Climb"/>
+        <card number="1" price="0" name="Selesnya Sanctuary"/>
+        <card number="1" price="0" name="Juniper Order Ranger"/>
+        <card number="1" price="0" name="Bazaar Krovod"/>
+        <card number="1" price="0" name="Eidolon of Rhetoric"/>
+        <card number="1" price="0" name="Guardian of Vitu-Ghazi"/>
+        <card number="1" price="0" name="Ancient Spider"/>
+        <card number="1" price="0" name="Kjeldoran Home Guard"/>
+        <card number="1" price="0" name="Rhox Faithmender"/>
+        <card number="1" price="0" name="Trostani, Selesnya's Voice"/>
+        <card number="1" price="0" name="Everbark Shaman"/>
+        <card number="1" price="0" name="Guardians of Akrasa"/>
+        <card number="1" price="0" name="Guardians of Meletis"/>
+        <card number="1" price="0" name="Jaddi Offshoot"/>
+        <card number="1" price="0" name="Jaddi Lifestrider"/>
+        <card number="1" price="0" name="Karador, Ghost Chieftain"/>
+        <card number="1" price="0" name="Maze Sentinel"/>
+        <card number="1" price="0" name="Pontiff of Blight"/>
+        <card number="1" price="0" name="Qasali Ambusher"/>
+        <card number="1" price="0" name="Selvala, Explorer Returned"/>
+        <card number="1" price="0" name="Souls of the Faultless"/>
+        <card number="1" price="0" name="Tangle Angler"/>
+        <card number="1" price="0" name="Thallid Shell-Dweller"/>
+        <card number="1" price="0" name="Vhati il-Dal"/>
+        <card number="1" price="0" name="Wall of Glare"/>
+        <card number="1" price="0" name="Wall of Roots"/>
+        <card number="1" price="0" name="Yoked Ox"/>
+        <card number="1" price="0" name="Dromoka Dunecaster"/>
+        <card number="1" price="0" name="Gerrard's Command"/>
+        <card number="1" price="0" name="Selesnya Guildgate"/>
+        <card number="1" price="0" name="Shields of Velis Vel"/>
+        <card number="1" price="0" name="Golgari Guildgate"/>
+        <card number="1" price="0" name="Golgari Rot Farm"/>
+        <card number="1" price="0" name="Orzhov Basilica"/>
+        <card number="1" price="0" name="Orzhov Guildgate"/>
+        <card number="1" price="0" name="Caravan Vigil"/>
+        <card number="1" price="0" name="Duneblast"/>
+        <card number="1" price="0" name="Safewright Quest"/>
+        <card number="1" price="0" name="Joiner Adept"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Sandsteppe Citadel"/>
+        <card number="1" price="0" name="Meekstone"/>
+        <card number="1" price="0" name="Crackdown"/>
+        <card number="1" price="0" name="Genju of the Fields"/>
+        <card number="1" price="0" name="Guardian Zendikon"/>
+        <card number="1" price="0" name="Hero's Resolve"/>
+        <card number="1" price="0" name="Rolling Stones"/>
+        <card number="1" price="0" name="Ivorytusk Fortress"/>
+        <card number="1" price="0" name="Siege Rhino"/>
+        <card number="1" price="0" name="Sight of the Scalelords"/>
+        <card number="1" price="0" name="Doran, the Siege Tower"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Pop - Myr Genesis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Genesis Chamber"/>
+        <card number="4" price="0" name="Myr Galvanizer"/>
+        <card number="4" price="0" name="Myr Retriever"/>
+        <card number="4" price="0" name="Myr Turbine"/>
+        <card number="2" price="0" name="Myr Battlesphere"/>
+        <card number="2" price="0" name="Palladium Myr"/>
+        <card number="2" price="0" name="Curse of Death's Hold"/>
+        <card number="2" price="0" name="Engineered Plague"/>
+        <card number="2" price="0" name="Night of Souls' Betrayal"/>
+        <card number="2" price="0" name="Marsh Casualties"/>
+        <card number="4" price="0" name="Master of Etherium"/>
+        <card number="2" price="0" name="Etherium Sculptor"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Vault of Whispers"/>
+        <card number="4" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Piranha Marsh"/>
+        <card number="1" price="0" name="Halimar Depths"/>
+        <card number="1" price="0" name="Soaring Seacliff"/>
+        <card number="1" price="0" name="Darkslick Shores"/>
+        <card number="1" price="0" name="Darkwater Catacombs"/>
+        <card number="1" price="0" name="Dimir Aqueduct"/>
+        <card number="1" price="0" name="Dismal Backwater"/>
+        <card number="1" price="0" name="Jwar Isle Refuge"/>
+        <card number="1" price="0" name="River of Tears"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="1" price="0" name="Seat of the Synod"/>
+        <card number="2" price="0" name="Leaden Myr"/>
+        <card number="1" price="0" name="Silver Myr"/>
+        <card number="3" price="0" name="Blood Seeker"/>
+    </zone>
+</cockatrice_deck>

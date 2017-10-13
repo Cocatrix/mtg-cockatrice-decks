@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>EDH - Zombie</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" price="0" name="Gisa and Geralf"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Cephalid Vandal"/>
+        <card number="1" price="0" name="Deranged Assistant"/>
+        <card number="1" price="0" name="Armored Skaab"/>
+        <card number="1" price="0" name="False Memories"/>
+        <card number="1" price="0" name="Laboratory Brute"/>
+        <card number="1" price="0" name="Jace's Erasure"/>
+        <card number="1" price="0" name="Screeching Skaab"/>
+        <card number="1" price="0" name="Mental Note"/>
+        <card number="1" price="0" name="Forsaken Drifters"/>
+        <card number="1" price="0" name="Sinister Concoction"/>
+        <card number="1" price="0" name="Liliana, the Last Hope"/>
+        <card number="1" price="0" name="Wailing Ghoul"/>
+        <card number="1" price="0" name="Bone Dancer"/>
+        <card number="1" price="0" name="Crow of Dark Tidings"/>
+        <card number="1" price="0" name="Corpse Churn"/>
+        <card number="1" price="0" name="Rakshasa's Secret"/>
+        <card number="1" price="0" name="Grave Strength"/>
+        <card number="1" price="0" name="Liliana's Indignation"/>
+        <card number="1" price="0" name="Mindwrack Demon"/>
+        <card number="1" price="0" name="Necromancer's Assistant"/>
+        <card number="1" price="0" name="Charmed Pendant"/>
+        <card number="1" price="0" name="Perpetual Timepiece"/>
+        <card number="1" price="0" name="Shard of Broken Glass"/>
+        <card number="1" price="0" name="Millikin"/>
+        <card number="1" price="0" name="Dakmor Salvage"/>
+        <card number="1" price="0" name="Darkblast"/>
+        <card number="1" price="0" name="Bitter Revelation"/>
+        <card number="1" price="0" name="Golgari Thug"/>
+        <card number="1" price="0" name="Moonlight Bargain"/>
+        <card number="1" price="0" name="Corpse Connoisseur"/>
+        <card number="1" price="0" name="Entomb"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Stinkweed Imp"/>
+        <card number="1" price="0" name="Sibsig Muckdraggers"/>
+        <card number="1" price="0" name="Ghoultree"/>
+        <card number="1" price="0" name="Shambling Attendants"/>
+        <card number="1" price="0" name="Terrus Wurm"/>
+        <card number="1" price="0" name="Gurmag Angler"/>
+        <card number="1" price="0" name="Scourge of Nel Toth"/>
+        <card number="1" price="0" name="Sutured Ghoul"/>
+        <card number="1" price="0" name="Skaab Goliath"/>
+        <card number="1" price="0" name="Corpulent Corpse"/>
+        <card number="1" price="0" name="Gempalm Polluter"/>
+        <card number="1" price="0" name="Geralf's Mindcrusher"/>
+        <card number="1" price="0" name="Jhessian Zombies"/>
+        <card number="1" price="0" name="Geth, Lord of the Vault"/>
+        <card number="1" price="0" name="Gravespawn Sovereign"/>
+        <card number="1" price="0" name="Noosegraf Mob"/>
+        <card number="1" price="0" name="Helldozer"/>
+        <card number="1" price="0" name="Mikaeus, the Unhallowed"/>
+        <card number="1" price="0" name="Raving Dead"/>
+        <card number="1" price="0" name="Relentless Skaabs"/>
+        <card number="1" price="0" name="Havengul Lich"/>
+        <card number="1" price="0" name="Possessed Skaab"/>
+        <card number="1" price="0" name="Grimgrin, Corpse-Born"/>
+        <card number="1" price="0" name="Dralnu, Lich Lord"/>
+        <card number="1" price="0" name="Phyrexian Delver"/>
+        <card number="1" price="0" name="Dread Slaver"/>
+        <card number="1" price="0" name="Sidisi, Undead Vizier"/>
+        <card number="1" price="0" name="Forgotten Creation"/>
+        <card number="1" price="0" name="Undead Alchemist"/>
+        <card number="1" price="0" name="Fatestitcher"/>
+        <card number="1" price="0" name="Drunau Corpse Trawler"/>
+        <card number="1" price="0" name="Gravedigger"/>
+        <card number="1" price="0" name="Soulless One"/>
+        <card number="1" price="0" name="Abattoir Ghoul"/>
+        <card number="1" price="0" name="Vengeful Dead"/>
+        <card number="1" price="0" name="Korlash, Heir to Blackblade"/>
+        <card number="1" price="0" name="Balthor the Defiled"/>
+        <card number="1" price="0" name="Risen Executioner"/>
+        <card number="1" price="0" name="Liliana's Reaver"/>
+        <card number="1" price="0" name="Undead Warchief"/>
+        <card number="1" price="0" name="Geralf's Messenger"/>
+        <card number="1" price="0" name="Headless Skaab"/>
+        <card number="1" price="0" name="Liliana's Elite"/>
+        <card number="1" price="0" name="Grim Guardian"/>
+        <card number="1" price="0" name="Diregraf Colossus"/>
+        <card number="1" price="0" name="Unbreathing Horde"/>
+        <card number="1" price="0" name="Sedraxis Alchemist"/>
+        <card number="1" price="0" name="Skaab Ruinator"/>
+        <card number="1" price="0" name="Stitched Drake"/>
+        <card number="1" price="0" name="Siren of the Silent Song"/>
+        <card number="1" price="0" name="Lich Lord of Unx"/>
+        <card number="1" price="0" name="Prized Amalgam"/>
+        <card number="1" price="0" name="Diregraf Captain"/>
+        <card number="1" price="0" name="Cemetery Reaper"/>
+        <card number="1" price="0" name="Lord of the Undead"/>
+        <card number="1" price="0" name="Death Baron"/>
+        <card number="1" price="0" name="Zombie Master"/>
+        <card number="1" price="0" name="Vedalken Ghoul"/>
+        <card number="1" price="0" name="Metathran Zombie"/>
+        <card number="1" price="0" name="Plaguebearer"/>
+        <card number="1" price="0" name="Wight of Precinct Six"/>
+        <card number="1" price="0" name="Shepherd of Rot"/>
+        <card number="1" price="0" name="Nightscape Familiar"/>
+        <card number="1" price="0" name="Spiteful Returned"/>
+        <card number="1" price="0" name="Rancid Rats"/>
+        <card number="1" price="0" name="Diregraf Ghoul"/>
+        <card number="1" price="0" name="Cryptbreaker"/>
+        <card number="1" price="0" name="Gravecrawler"/>
+        <card number="1" price="0" name="Unearth"/>
+        <card number="1" price="0" name="Pattern of Rebirth"/>
+        <card number="1" price="0" name="Ghastly Demise"/>
+        <card number="1" price="0" name="Spontaneous Mutation"/>
+        <card number="1" price="0" name="Unholy Grotto"/>
+        <card number="1" price="0" name="Ghoulcaller's Chant"/>
+        <card number="1" price="0" name="Graf Harvest"/>
+        <card number="1" price="0" name="Quest for the Gravelord"/>
+        <card number="1" price="0" name="Shamble Back"/>
+        <card number="1" price="0" name="Necromancer's Stockpile"/>
+        <card number="1" price="0" name="Cemetery Recruitment"/>
+        <card number="1" price="0" name="Compelling Deterrence"/>
+        <card number="1" price="0" name="Curse of Shallow Graves"/>
+        <card number="1" price="0" name="Bridge from Below"/>
+        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
+        <card number="1" price="0" name="Endless Ranks of the Dead"/>
+        <card number="1" price="0" name="Grimoire of the Dead"/>
+        <card number="1" price="0" name="Empty the Pits"/>
+        <card number="1" price="0" name="Necromaster Dragon"/>
+        <card number="1" price="0" name="Rise from the Grave"/>
+        <card number="1" price="0" name="Call to the Grave"/>
+        <card number="1" price="0" name="Zombie Apocalypse"/>
+        <card number="1" price="0" name="Grave Titan"/>
+        <card number="1" price="0" name="Rooftop Storm"/>
+        <card number="1" price="0" name="Necromantic Selection"/>
+        <card number="1" price="0" name="Songs of the Damned"/>
+    </zone>
+</cockatrice_deck>

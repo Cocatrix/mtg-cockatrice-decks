@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>0</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Arena"/>
+        <card number="1" price="0" name="Island of Wak-Wak"/>
+        <card number="1" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Diamond Valley"/>
+        <card number="1" price="0" name="Glacial Chasm"/>
+        <card number="1" price="0" name="Halls of Mist"/>
+        <card number="1" price="0" name="Ice Floe"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Mountain Stronghold"/>
+        <card number="1" price="0" name="Oasis"/>
+        <card number="1" price="0" name="Safe Haven"/>
+        <card number="1" price="0" name="Seafarer's Quay"/>
+        <card number="1" price="0" name="Sorrow's Path"/>
+        <card number="1" price="0" name="Unholy Citadel"/>
+    </zone>
+</cockatrice_deck>

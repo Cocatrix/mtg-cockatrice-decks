@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>M - Ck - Zero Return - WB</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dream Stalker"/>
+        <card number="4" price="0" name="Kor Skyfisher"/>
+        <card number="4" price="0" name="Disappearing Act"/>
+        <card number="1" price="0" name="Emancipation Angel"/>
+        <card number="3" price="0" name="Cache Raiders"/>
+        <card number="1" price="0" name="Suture Priest"/>
+        <card number="2" price="0" name="Angelic Chorus"/>
+        <card number="2" price="0" name="Customs Depot"/>
+        <card number="4" price="0" name="Equilibrium"/>
+        <card number="2" price="0" name="Memnite"/>
+        <card number="4" price="0" name="Shield Sphere"/>
+        <card number="2" price="0" name="Ornithopter"/>
+        <card number="3" price="0" name="Brass Man"/>
+        <card number="4" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Hallowed Fountain"/>
+        <card number="3" price="0" name="Glacial Fortress"/>
+        <card number="2" price="0" name="Nimbus Maze"/>
+        <card number="1" price="0" name="Tundra"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="4" price="0" name="Emeria Angel"/>
+        <card number="1" price="0" name="Admonition Angel"/>
+        <card number="4" price="0" name="Azorius Chancery"/>
+    </zone>
+</cockatrice_deck>
