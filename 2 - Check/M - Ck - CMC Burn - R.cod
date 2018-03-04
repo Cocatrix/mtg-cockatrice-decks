@@ -3,22 +3,24 @@
     <deckname>M - Check - CMC Burn - R</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Greater Gargadon"/>
-        <card number="4" price="0" name="Blazing Shoal"/>
-        <card number="4" price="0" name="Flamekin Brawler"/>
-        <card number="2" price="0" name="Soulbright Flamekin"/>
-        <card number="1" price="0" name="Spitebellows"/>
-        <card number="2" price="0" name="Release the Ants"/>
-        <card number="4" price="0" name="Sin Prodder"/>
-        <card number="1" price="0" name="Erratic Explosion"/>
-        <card number="1" price="0" name="Riddle of Lightning"/>
-        <card number="4" price="0" name="Flame Javelin"/>
-        <card number="1" price="0" name="Undying Flames"/>
-        <card number="4" price="0" name="Draco"/>
-        <card number="1" price="0" name="Emrakul, the Promised End"/>
-        <card number="2" price="0" name="Blasphemous Act"/>
-        <card number="1" price="0" name="Ridge Rannet"/>
-        <card number="4" price="0" name="Chancellor of the Forge"/>
-        <card number="20" price="0" name="Mountain"/>
+        <card number="4" name="Greater Gargadon"/>
+        <card number="4" name="Blazing Shoal"/>
+        <card number="4" name="Flamekin Brawler"/>
+        <card number="2" name="Soulbright Flamekin"/>
+        <card number="1" name="Spitebellows"/>
+        <card number="2" name="Release the Ants"/>
+        <card number="4" name="Sin Prodder"/>
+        <card number="1" name="Erratic Explosion"/>
+        <card number="1" name="Riddle of Lightning"/>
+        <card number="4" name="Flame Javelin"/>
+        <card number="1" name="Undying Flames"/>
+        <card number="2" name="Blasphemous Act"/>
+        <card number="1" name="Ridge Rannet"/>
+        <card number="4" name="Chancellor of the Forge"/>
+        <card number="20" name="Mountain"/>
+        <card number="1" name="Progenitus"/>
+        <card number="1" name="Decree of Annihilation"/>
+        <card number="2" name="Avatar of Fury"/>
+        <card number="1" name="Bedlam Reveler"/>
     </zone>
 </cockatrice_deck>
